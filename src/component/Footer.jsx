@@ -73,7 +73,7 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4 text-center sm:text-left">
 
             <p className="text-xs text-emerald-300/40">
-              © 2026 KeenKeeper. All rights.
+              © 2026 KeenKeeper. All rights reserved.
             </p>
 
             <div className="flex flex-wrap items-center justify-center sm:justify-end gap-4 sm:gap-5">
