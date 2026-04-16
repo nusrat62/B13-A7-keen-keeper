@@ -1,15 +1,15 @@
-# 👥 KeenKeeper — Keep Your Friendships Alive
+# KeenKeeper — Keep Your Friendships Alive
 
 A friendly relationship management app built with Next.js and React to help you stay connected with your closest friends. KeenKeeper makes it easy to log interactions, monitor friendship health, and review engagement through smart visual analytics.
 
-## ✨ What it does
+## What it does
 - Manage friends with a clean grid layout and detailed profile pages
 - Track interaction history for calls, texts, and video chats
 - See friendship status at a glance: On-track, Almost due, or Overdue
 - Store timeline data locally in the browser with LocalStorage
 - Visualize engagement with Recharts-powered charts and analytics
 
-## 🛠️ Technologies used
+## Technologies used
 - Next.js (App Router)
 - React.js
 - Tailwind CSS
@@ -17,7 +17,7 @@ A friendly relationship management app built with Next.js and React to help you 
 - Recharts
 - Lucide React Icons
 
-## ⭐ Key features
+## Key features
 1. **Friend Management**
    - Browse friends in a polished grid UI
    - Open individual friend profiles for details
@@ -33,13 +33,6 @@ A friendly relationship management app built with Next.js and React to help you 
    - Get real-time stats for calls, texts, and video interactions
    - Understand which friendships need attention next
 
-## 🚀 Run locally
-```bash
-npm install
-npm run dev
-```
 
-Then open `http://localhost:3000` in your browser.
-
-## 💡 Why KeenKeeper?
+## Why KeenKeeper?
 KeenKeeper helps you build stronger relationships by turning small interaction reminders into a simple routine. It is ideal for anyone who wants to nurture friendships without losing track of busy schedules.
